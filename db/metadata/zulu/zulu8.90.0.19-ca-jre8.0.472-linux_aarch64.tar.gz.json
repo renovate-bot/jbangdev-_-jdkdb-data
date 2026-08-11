@@ -9,6 +9,15 @@
   "jvm_impl": "hotspot",
   "md5": "71e61d1ebe11ade634726fa112cfc085",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu8.90.0.19-CA-linux-aarch64",
+    "JAVA_VERSION": "1.8.0_472",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "OS_VERSION": "2.6",
+    "SOURCE": ".:git:8efb60d4a0b7"
+  },
   "release_type": "ga",
   "sha1": "1d7b876db5f1d98efd4c1f505343ff777f88bbef",
   "sha256": "8fa66aeebdb47f3b9cd0a1cf5486c0d90cf5f4f67194e28179fa87726a4b8e1f",

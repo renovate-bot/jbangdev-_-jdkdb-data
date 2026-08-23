@@ -13,6 +13,13 @@
   "jvm_impl": "hotspot",
   "md5": "b809fd178841767ce66a3fc022532389",
   "os": "windows",
+  "release_info": {
+    "JAVA_VERSION": "1.8.0_382",
+    "OS_ARCH": "i586",
+    "OS_NAME": "Windows",
+    "OS_VERSION": "5.1",
+    "SOURCE": ".:git:6261f6bfe9f0+"
+  },
   "release_type": "ga",
   "sha1": "5628b99b607b4384650f5c7dca30c6b8ff4a0316",
   "sha256": "4e9367d6484b7705d3b00a3678d7040315d3d68b15675299e83cb760df5f7ce6",

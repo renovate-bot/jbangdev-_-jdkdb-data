@@ -9,6 +9,7 @@
   "jvm_impl": "hotspot",
   "md5": "1ad2d9f8f06f8f1823a93a96e5bdcb96",
   "os": "macosx",
+  "release_info": {},
   "release_type": "ga",
   "sha1": "0222edd938154e614dfb78edc5560bc9162b24b6",
   "sha256": "b873dcc8e83151d4e0ce6215469fdac2dc2f7bdcd2b7ed5364d79fec352ea118",

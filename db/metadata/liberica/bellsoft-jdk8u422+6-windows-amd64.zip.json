@@ -1,14 +1,22 @@
 {
   "architecture": "x86_64",
   "distro": "liberica",
-  "features": [],
+  "features": [ ],
   "file_type": "zip",
   "filename": "bellsoft-jdk8u422+6-windows-amd64.zip",
   "image_type": "jdk",
   "java_version": "8u422+6",
   "jvm_impl": "hotspot",
+  "last_verified": "2026-08-28",
   "md5": "e289ad80b26d2e7d33f3b287f218f331",
   "os": "windows",
+  "release_info": {
+    "JAVA_VERSION": "1.8.0_422",
+    "OS_ARCH": "amd64",
+    "OS_NAME": "Windows",
+    "OS_VERSION": "5.2",
+    "SOURCE": ".:git:6033b0087d6b+"
+  },
   "release_type": "ga",
   "sha1": "c20e7b12d46be68ab293a60eebdb4d58ed306eda",
   "sha256": "dba7d088d0a69c2ce6344d10f1ac1c9128b73a9ac17ee659b3e5638657594fff",

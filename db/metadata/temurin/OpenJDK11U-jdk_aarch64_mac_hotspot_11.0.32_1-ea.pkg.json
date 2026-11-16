@@ -36,6 +36,7 @@
   "sha256": "2998372f165afdd57017b11914ad288c2b86b1c8ab1b7a366f268813843f753a",
   "sha512": "f67f1df36c3e3f9847783879438601e2ecef50da65471586daaf03f0fd473983ed9341b0c4aaf65bfeb58c42fb968e9608437d73964a075a4d2ac9a8590ad5fc",
   "size": 185017259,
+  "unlisted_since": "2026-11-16",
   "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32%2B1-ea-beta/OpenJDK11U-jdk_aarch64_mac_hotspot_11.0.32_1-ea.pkg",
   "vendor": "eclipse",
   "version": "11.0.32+1-ea-beta"

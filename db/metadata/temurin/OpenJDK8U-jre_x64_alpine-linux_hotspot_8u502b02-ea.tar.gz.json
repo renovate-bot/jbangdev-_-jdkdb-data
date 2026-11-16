@@ -34,6 +34,7 @@
   "sha256": "5ce3b89c0cf9ad30a835ce22dbabd0eba3357edca6fa09c56abfdbc905875ed2",
   "sha512": "fe403a1db6309ad628ec9692d24d2ec85cff809373f90bad543a8878679d583884dee9ab600c9fb38c6d2bec83f5e93cb094234c33cd54dcf4a716b650a11023",
   "size": 41765527,
+  "unlisted_since": "2026-11-16",
   "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u502-b02-ea-beta/OpenJDK8U-jre_x64_alpine-linux_hotspot_8u502b02-ea.tar.gz",
   "vendor": "eclipse",
   "version": "8u502-b02-ea-beta"

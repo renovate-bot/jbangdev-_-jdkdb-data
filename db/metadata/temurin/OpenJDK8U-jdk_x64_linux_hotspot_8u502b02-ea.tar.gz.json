@@ -32,6 +32,7 @@
   "sha256": "01012706306145e5b58c5873211b783512f9594b045fa8567244277b25126462",
   "sha512": "150dc406e6fdb4bb14dc3e8fc72e75d05810556ef7407bbb5520e7264579a26f210f4bb231992f8b69c12af32c3fa04018b9860874280d71b91b8c6134d0a995",
   "size": 103507364,
+  "unlisted_since": "2026-11-16",
   "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u502-b02-ea-beta/OpenJDK8U-jdk_x64_linux_hotspot_8u502b02-ea.tar.gz",
   "vendor": "eclipse",
   "version": "8u502-b02-ea-beta"

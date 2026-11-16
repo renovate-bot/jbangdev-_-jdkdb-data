@@ -38,6 +38,7 @@
   "sha256": "6b68ef34e92a72f7cfc86f6f302f1772154368d1a6c9974e994a948a1b01852b",
   "sha512": "e9eca06abcae8b49d9766fd736bd8fff146861229db19b5873a0f959e2ad329e2b13d136a9e3511b0ab0ec9964dcee712a46a272cf585e76c1921acf1165a7c8",
   "size": 143691236,
+  "unlisted_since": "2026-11-16",
   "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-05-17-15-35-beta/OpenJDK26U-jdk_x64_alpine-linux_hotspot_2026-05-17-15-35.tar.gz",
   "vendor": "eclipse",
   "version": "26u-2026-05-17-15-35-beta"

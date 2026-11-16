@@ -36,6 +36,7 @@
   "sha256": "ba33afeed687b2e874aa67fc297608ff202b5e9e84ba46ac489dafd2eabd1726",
   "sha512": "3969141c298985db48728c14d69aca04934987eaada898b38c0051e6836f92ff09ab56e56d6e734b07640de7315ea23fedbfcd37c371c3c8e622a3ca21ed686c",
   "size": 138878523,
+  "unlisted_since": "2026-11-16",
   "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-05-17-15-35-beta/OpenJDK26U-jdk_s390x_linux_hotspot_2026-05-17-15-35.tar.gz",
   "vendor": "eclipse",
   "version": "26u-2026-05-17-15-35-beta"

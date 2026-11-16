@@ -36,6 +36,7 @@
   "sha256": "d03b0870b0fc7594262a14009821aea677abe051d632766cdcbcc0a6c389bcef",
   "sha512": "c16e3ffc6f10468fc3104ffde682cfb028044fa577cf6d5655ca41a3a155e69cc43e540e81c4057ce26e1be393dcfe89e693032f3319e9b8c624b69ca8538d99",
   "size": 101195776,
+  "unlisted_since": "2026-11-16",
   "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B22-ea-beta/OpenJDK-jdk_aarch64_windows_hotspot_27_22-ea.msi",
   "vendor": "eclipse",
   "version": "27+22-ea-beta"

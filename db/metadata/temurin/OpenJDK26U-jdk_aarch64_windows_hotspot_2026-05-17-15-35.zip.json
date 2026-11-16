@@ -36,6 +36,7 @@
   "sha256": "17b220277b1fc28c4b4e4e7109711560dc98d32b813ba6872dc6c58e2b17bc47",
   "sha512": "43e91263f03e613904cd7bfe2099b79340dff0d0af1fdd719f3da2f6a80492020b23cb9c89ea6a7ef603b0a39f30fd48e4852f19a04c885c3eb1159421cf4025",
   "size": 123480699,
+  "unlisted_since": "2026-11-16",
   "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-05-17-15-35-beta/OpenJDK26U-jdk_aarch64_windows_hotspot_2026-05-17-15-35.zip",
   "vendor": "eclipse",
   "version": "26u-2026-05-17-15-35-beta"

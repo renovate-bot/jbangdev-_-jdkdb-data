@@ -38,6 +38,7 @@
   "sha256": "de69722f9b9c2d0c24e4aa2f099ed1d262abc37ef6b75430d825a49e03cf5511",
   "sha512": "323da7f1cb6f227741e759579613c5a93c14b9184b68330de8f164c139c9a23367894ff0e1e4a59d849ad5b4ce209a95de0aec6fc48b0781d7ff3bb119a3a188",
   "size": 194425085,
+  "unlisted_since": "2026-11-16",
   "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32%2B2-ea-beta/OpenJDK11U-jdk_x64_alpine-linux_hotspot_11.0.32_2-ea.tar.gz",
   "vendor": "eclipse",
   "version": "11.0.32+2-ea-beta"

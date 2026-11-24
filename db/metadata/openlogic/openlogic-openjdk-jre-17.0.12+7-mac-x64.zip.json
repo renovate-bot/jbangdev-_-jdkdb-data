@@ -19,6 +19,7 @@
   "sha256": "3036c80edcacb9a0853b2fbe542c17f091e4670d770548e483f9e2ebcf82c38f",
   "sha512": "fb317f347831d5a488d1b015ad18d9aba4dce2d292c9d1ada05c138907f0b806423222d62609d7fb88eb23b8c553a1fd5152e205566fbc525ca2f3e4ee461563",
   "size": 44789258,
+  "unlisted_since": "2026-11-24",
   "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/17.0.12+7/openlogic-openjdk-jre-17.0.12+7-mac-x64.zip",
   "vendor": "openlogic",
   "version": "17.0.12+7"

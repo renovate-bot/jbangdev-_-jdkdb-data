@@ -27,6 +27,7 @@
   "sha256": "1f8e7086e87eb4e29c14476b317f2151e79ab83efc7407cadb45745427672357",
   "sha512": "caa6aa4566ffb3f1ea731eff70ac1036624b266d44e50943888e3cf99b2e6ba3f0cc1248f8f564466246dacd49fe2a6510e7340e29e51829f88ef9791b66d000",
   "size": 253844874,
+  "unlisted_since": "2026-11-24",
   "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/21.0.8+9/openlogic-openjdk-21.0.8+9-linux-x64.tar.gz",
   "vendor": "openlogic",
   "version": "21.0.8+9"

@@ -19,6 +19,7 @@
   "sha256": "f63e355c7d1f9a62b91df482a39692c9cea41cb148bc57301fdd3017c7cd77ae",
   "sha512": "5a9e415c2426a1db97a669b2c2f903aa6eb3a63aec11c0372b0b80136e45e392d603013877cebeb624988f00c7645a50ec8379a402ae572c7dc96f6df631ea6c",
   "size": 51305882,
+  "unlisted_since": "2026-11-27",
   "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/17.0.11+9/openlogic-openjdk-jre-17.0.11+9-linux-x64-deb.deb",
   "vendor": "openlogic",
   "version": "17.0.11+9"

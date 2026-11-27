@@ -22,7 +22,6 @@
   "sha256": "1685dc8d6e3dfa661a9ef9ea164f03c40f26e46f4f5eee948484039d750f6b9b",
   "sha512": "8798a3458b4863769943ee47e2b80116de6149928117936e49670f34af324936595f9d413fc66bc26d5f702076c441bd2c77aa0bd33677a71b35128ac2809a41",
   "size": 49159566,
-  "unlisted_since": "2026-11-26",
   "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/8u512-b09/openlogic-openjdk-jre-8u512-b09-linux-x64.tar.gz",
   "vendor": "openlogic",
   "version": "8u512-b09"

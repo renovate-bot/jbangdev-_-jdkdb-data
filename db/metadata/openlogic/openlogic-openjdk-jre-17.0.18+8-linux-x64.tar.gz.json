@@ -19,6 +19,7 @@
   "sha256": "f0ac0a3f0ebc3b7cc863a71970e3fd5ffce0c8ada6777cad2db69a396defbd8b",
   "sha512": "2e31b33c408e818046b61290affb042a7a51f0b0d8b51c2c2846eeeb0b6cc8804aeb52dcee9035ea65258a90df3697be7f635bac0093538aad77f388cd58d9fa",
   "size": 51478210,
+  "unlisted_since": "2026-11-28",
   "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/17.0.18+8/openlogic-openjdk-jre-17.0.18+8-linux-x64.tar.gz",
   "vendor": "openlogic",
   "version": "17.0.18+8"

@@ -22,6 +22,7 @@
   "sha256": "3d9eb05c407440eda1883d2a6558936ba163fca5bae7e58c6e58baf83c5beca4",
   "sha512": "096c1a298bbee4c0106786cca25d2d1aef5296231bbcf0b49b81dc32b45b0ad5f12a5a615c9e06ea9226ae0055696836a0047115586b20db03426a5e41a82fab",
   "size": 49506884,
+  "unlisted_since": "2026-11-28",
   "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/8u472-b08/openlogic-openjdk-jre-8u472-b08-linux-x64-deb.deb",
   "vendor": "openlogic",
   "version": "8u472-b08"

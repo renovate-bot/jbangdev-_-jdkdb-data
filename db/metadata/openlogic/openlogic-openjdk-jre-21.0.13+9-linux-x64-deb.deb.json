@@ -19,6 +19,7 @@
   "sha256": "d207683af3bdb692c17be6650360d12cc2d94fa271bda59335e33fe7af80bfa8",
   "sha512": "4a777f1b3b0114781f6cf2a7bc8562da2efc1fda976cd7cd9d4d108b0a2def145e9a85588c8e482e5c2fa9bfeb67f492937024f05259df2d9f979793e545bb21",
   "size": 58352404,
+  "unlisted_since": "2026-11-28",
   "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/21.0.13+9/openlogic-openjdk-jre-21.0.13+9-linux-x64-deb.deb",
   "vendor": "openlogic",
   "version": "21.0.13+9"
